@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.5.
 
+![image](https://user-images.githubusercontent.com/25205195/133486707-3dddc6a4-de5f-4763-aaf6-62b1ab7d1b9e.png)
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
